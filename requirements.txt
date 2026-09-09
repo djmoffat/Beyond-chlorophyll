@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+shap
+tabpfn
+xarray
+libpysal
+esda
+networkx
+jupyter
+ipykernel
+openpyxl
