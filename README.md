@@ -164,16 +164,20 @@ Where permitted, processed data products required to reproduce the analyses will
 
 ## Software Environment
 
-The analysis was developed using:
+The analysis was developed and tested using the software environment below.
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- SHAP
-- TabPFN
+| Component | Version |
+|------------|------------|
+| Python | 3.13.9 |
+| NumPy | 2.3.5 |
+| Pandas | 2.3.3 |
+| Matplotlib | 3.10.6 |
+| Seaborn | 0.13.2 |
+| Scikit-learn | 1.7.2 |
+| SHAP | 0.52.0 |
+| TabPFN | 8.0.3 |
+
+The complete software environment required to reproduce the analysis can be recreated using either:
 
 Exact package versions are provided in:
 
