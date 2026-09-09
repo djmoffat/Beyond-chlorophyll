@@ -1,0 +1,22 @@
+name: pigment_ml
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.13
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - shap
+  - tabpfn
+  - xarray
+  - libpysal
+  - esda
+  - networkx
+  - jupyter
+  - ipykernel
+  - openpyxl
