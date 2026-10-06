@@ -85,19 +85,19 @@ This approach ensures that validation observations were completely withheld duri
 
 Three models were developed:
 
-### RFchl Baseline
+### RF(chl)
 
 Random Forest using only satellite-derived chlorophyll-*a* as a predictor.
 
-### Rrs
+### RF(Rrs)
 
 Random Forest using only the Rrs predictor set.
 
-### Random Forest (RF)
+### RF(all)
 
 Random Forest using the complete predictor set.
 
-### TabPFN
+### FM(all)
 
 Tabular Prior-data Fitted Network (TabPFN) foundation model trained using the complete predictor set.
 
