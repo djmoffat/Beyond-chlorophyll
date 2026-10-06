@@ -4,7 +4,7 @@
 >
 > **Beyond chlorophyll: machine learning estimates of diagnostic phytoplankton pigments from multispectral ocean colour data**
 
-⚠️ **Repository status:** This repository accompanies a manuscript currently undergoing peer review. Minor updates may occur prior to publication.
+**Repository status:** This repository accompanies a manuscript currently undergoing peer review. Minor updates may occur prior to publication.
 
 ---
 
